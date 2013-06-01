@@ -1,0 +1,10 @@
+author: Jiayi Zhao
+title: About us.
+url: http://2cz.me
+pygments: true
+permalink: /:title.orz
+paginate: 10
+indexContent: true
+deploy:
+  repository: https://github.com/ooxxme/2cz.me.git
+  branch: gh-pages
