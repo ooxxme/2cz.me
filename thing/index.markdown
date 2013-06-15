@@ -1,5 +1,0 @@
----
-layout: thing
-title:  THINGS
----
-
